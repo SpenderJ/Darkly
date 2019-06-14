@@ -1,0 +1,6 @@
+I recommand you to install SQLMAP for this correction.
+
+It will be really usefull and it is a very good habit to check for some
+potential security breach in your website.
+
+Jules Spender
