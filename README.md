@@ -36,7 +36,7 @@ Jules Spender
 
 * **Jules Spender** - *Initial work* - https://github.com/SpenderJ
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/SpenderJ/Darkly/contributors) who participated in this project.
 
 ## License
 
