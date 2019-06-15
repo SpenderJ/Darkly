@@ -10,13 +10,13 @@ Inspect element and then go to the select and modify the footer by adding any li
 flag appeared!
 
 ```bash
-The flag is : d19b4823e0d5600ceed56d5e896ef328d7a2b9e7ac7e80f4fcdb9b10bcb3e7ff
+GOOD JOB HERE IS THE FLAG : B9E775A0291FED784A2D9680FCFAD7EDD6B8CDF87648DA647AAF4BBA288BCAB3
 ```
 
 ## How to abuse of it
 
-Robots.txt is a pretty old convention. This file is public and someone with bad intention could use to get your root passwd if you put it in :( .
+Redirect you not to the expected website, by aspiring their frontend create a site which looks like it and which could steal all your infos that you could enter on this one feeling secured.
 
 ## How to patch it
 
-You might want to protect this folder.
+Create the link from the backend. APIS ARE MADE TO BE USED
