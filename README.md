@@ -13,6 +13,21 @@ You will need a VM to run the given ISO which you can download here.
 https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
 Then go to ressources and check every detailled error.
 
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+* [contributors](https://github.com/your/project/contributors)
+
 ## Contributing
 
 Jules Spender
