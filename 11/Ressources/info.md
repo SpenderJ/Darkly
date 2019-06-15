@@ -24,4 +24,4 @@ You can insert HTML code since the text/html is accepted
 
 ## How to patch it
 
-Just use the type that you want to accept. Check the headers of the file you're using.
+Just use the type that you want to accept. Check the headers of the file you're using. ID of images pointing to DB.
