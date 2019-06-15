@@ -20,4 +20,4 @@ Redirect you not to the expected website, by aspiring their frontend create a si
 
 ## How to patch it
 
-Create the link from the backend. APIS ARE MADE TO BE USED
+You'll need to protect this file :) And try not to put your root infos in this one 
