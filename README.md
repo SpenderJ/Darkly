@@ -10,7 +10,7 @@ You will also understand what a lot of frameworks to automaticly and transparent
 ## Running the tests
 
 You will need a VM to run the given ISO which you can download here.
-https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso
+https://projects.intra.42.fr/uploads/document/document/307/Darkly_i386.iso.
 Then go to ressources and check every detailled error.
 
 ## List of the breach
