@@ -19,7 +19,10 @@ sh script.sh
 After a long time, and way too many lines printing you'll see the final result with the so much desired key ;)
 
 ```bash
-
+FINISHED --2019-06-14 19:40:02--
+Total wall clock time: 24m 4s
+Downloaded: 36558 files, 11M in 0.6s (18.0 MB/s)
+99dde1d35d1fdd283924d84e6d9f1d820
 ```
 
 ## How to abuse of it
